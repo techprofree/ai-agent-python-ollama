@@ -1,0 +1,7 @@
+Project notes - techprofree local AI series
+
+Post 1: Run an LLM locally with Ollama and Python.
+Post 2: RAG - chat with your PDF locally (Ollama + ChromaDB).
+Post 3: Build an AI agent in pure Python with tool calling.
+
+Reminder: the agent can only read files inside this docs folder.
